@@ -1,0 +1,1 @@
+Phone Case Studio brings creativity to life through its code. Using HTML for structure and CSS for styling, the website presents phone cases in an attractive manner. The clear, user-friendly interface is ideal for both beginners and those seeking inspiration for small-scale web projects. It’s a great demonstration of how basic tools can create stunning web experiences.
